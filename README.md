@@ -34,6 +34,7 @@ A simple Java application that reads and parses a custom binary log file (`logi.
 
     ```sh
     git clone [https://github.com/amiths89/LogiReader.git](https://github.com/amiths89/LogiReader.git)
+    cd LogiReader
     cd BinFileReader
     ```
 
@@ -43,9 +44,10 @@ A simple Java application that reads and parses a custom binary log file (`logi.
 
 3.  **Build and Run the Project**
 
-    You can run the `Main` class directly from your IDE or use the following Maven command:
+    You can run the `Main` class directly from your IDE or use the following Maven commands:
 
     ```sh
+    mvn clean install
     mvn exec:java -Dexec.mainClass="org.java.bin.Main"
     ```
 
