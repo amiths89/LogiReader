@@ -1,0 +1,34 @@
+#Maven
+
+target/
+pom.xml.tag
+pom.xml.versionsBackup
+pom.xml.releaseBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+build-classpath.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+#Eclipse
+
+.classpath
+.project
+.settings/
+#IntelliJ IDEA
+
+.idea/
+*.iws
+*.iml
+*.ipr
+/out/
+#VS Code
+
+.vscode/
+#Compiled Java class files
+
+*.class
+#Log file to be ignored
+
+logi.bin
+report.html
