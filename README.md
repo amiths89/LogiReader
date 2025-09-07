@@ -1,4 +1,4 @@
-# BinFileReader
+# Logi Binary File Reader
 
 A simple Java application that reads and parses a custom binary log file (`logi.bin`), extracts messages, and generates a formatted HTML report for easy viewing.
 
