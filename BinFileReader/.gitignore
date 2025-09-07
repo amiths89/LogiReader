@@ -30,5 +30,4 @@ build-classpath.properties
 *.class
 #Log file to be ignored
 
-logi.bin
 report.html
